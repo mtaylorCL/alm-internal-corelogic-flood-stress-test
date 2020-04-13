@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.902
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CoreLogic Flood", "CoreLogic Flood.csproj", "{38A90058-29EB-423C-B7FF-7BDDB964F6E1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{38A90058-29EB-423C-B7FF-7BDDB964F6E1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{38A90058-29EB-423C-B7FF-7BDDB964F6E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{38A90058-29EB-423C-B7FF-7BDDB964F6E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{38A90058-29EB-423C-B7FF-7BDDB964F6E1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CC8E03C3-FF01-45F1-8820-9C0E85218D59}
+	EndGlobalSection
+EndGlobal
